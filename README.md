@@ -1,8 +1,8 @@
-# TodoKit-api
+#### 客户端源码[TodoKit](https://github.com/jeodiong/TodoKit)
+#### 服务端源码[TodoKit-api](https://github.com/jeodiong/TodoKit-api)
 
-Todokit-api is a server side repository for [TodoKit](https://github.com/jeodiong/TodoKit), using Expressjs.
 
-## Usage
+# Usage
  1. `git clone https://github.com/jeodiong/TodoKit-api.git`
  2. `npm install`
  3. `nodemon bin/www`
